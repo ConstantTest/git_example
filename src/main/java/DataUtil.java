@@ -10,4 +10,13 @@ public class DataUtil {
         names.add("Alex");
         names.add("Tanya");
     }
+
+    public static void getNumbers() {
+        List<Integer> numbers = new ArrayList<Integer>();
+        numbers.add(1);
+        numbers.add(14);
+        numbers.add(89);
+        numbers.add(123);
+        numbers.add(7);
+    }
 }
